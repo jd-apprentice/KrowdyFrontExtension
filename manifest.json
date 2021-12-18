@@ -1,0 +1,16 @@
+{
+  "name": "Linkedin Scraping",
+  "description": "Get information about users",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting", "storage"],
+  "action": {
+    "default_popup": "./App/index.html",
+    "default_icon": {
+      "16": "/images/16.png",
+      "32": "/images/32.png",
+      "48": "/images/48.png",
+      "128": "/images/28.png"
+    }
+  }
+}
